@@ -1,0 +1,109 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400&display=swap');
+
+body{
+    background: #ffffff;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    margin: 0px 0px;
+    display: grid;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    color: #000000;
+    float: right;
+    font-size: 23px;
+    margin-right: 0.5em;
+}
+li a{
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+}
+a:hover{
+    color: dodgerblue;
+}
+.image{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    margin-top: 8rem;
+}
+.seach{
+    display: inline-block;
+}
+.search-box{
+    margin-top: 1rem;
+
+}
+.button{
+    background-color: #f8f9fa;
+    border: 1px solid black;
+    color: #000000;
+    padding: 7px 15px;
+    text-align: center;
+    text-decoration: none;
+    transition-duration: 0.1s;
+    display: inline-block;
+    border-radius: 4px;
+    font-size: 16px;
+}
+.button:hover { 
+    border: 2px solid black;
+  }
+.search-button{
+    margin-top: 1rem;
+}
+.search-bar{
+    padding: 0.1em 0.7em;
+    background-color: #ffffff;
+    border : 2px solid rgb(122, 119, 119);
+    font-size: 20px;
+    height: 1.5em;
+    width: 28em;
+    border-radius: 8px;
+}
+.float{
+    float: left;
+}
+.float p{
+    font-size: 2rem;
+    margin: 0rem 4rem;
+}
+.advanced{
+    text-align: left;
+}
+.input{
+    margin-top : 0.5rem;
+}
+input[type=text]{
+    width: 30%;
+    font-size: 1.1rem;
+    border-radius: 5px;
+    border: 1.5px solid #000000;
+    padding : 0.3rem;
+}
+.text{
+    font-size: 1.5rem;
+    border-bottom: 1px solid rgb(0, 0, 0);
+    margin-left: 4rem;
+    padding-top: 1rem;
+    margin-right: 4rem;
+    margin-bottom: 2rem;
+}
+.advanced-button{
+    background-color: dodgerblue;
+    border: 1px solid black;
+    color: white;
+    margin : 1em 48em;
+    padding: 7px 20px;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 4px;
+}
+.advanced-button:hover{
+    border: 2px solid black;
+}
