@@ -1,7 +1,7 @@
-#Google Clone using HTML and CSS
+# Google Clone using HTML and CSS
 This project is a clone of the Google homepage built using HTML and CSS. The goal of this project is to practice HTML and CSS skills, including creating a responsive layout, using flexbox, and adding styling to HTML elements.
 
-Table of Contents
+## Table of Contents
 Demo
 Technologies Used
 Features
