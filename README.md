@@ -11,7 +11,7 @@ License
 Demo
 To see a live demo of this project, click here.
 
-Technologies Used
+## Technologies Used
 HTML
 CSS
 Features
