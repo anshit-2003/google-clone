@@ -2,7 +2,7 @@
 This project is a clone of the Google homepage built using HTML and CSS. The goal of this project is to practice HTML and CSS skills, including creating a responsive layout and adding styling to HTML elements.
 
 ## Table of Contents
-* [Hosted Demo](https://google-clone-eta-ten.vercel.app/)
+* [Hosted Demo](https://anshit-2003.github.io/google-clone/)
 * Features
 * License
 
